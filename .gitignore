@@ -1,0 +1,4 @@
+**/.venv/
+**/database/
+**/outputs/
+**/__pycache__/
